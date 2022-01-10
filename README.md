@@ -3,7 +3,7 @@
 ### I'm computer science student from Finland
 
 Tools and laguages I already know:
-![](Images/python-logo.png)
+<img src="Images/python-logo.png" width="20">
 
 <!--
 **EvilMoonBerry/EvilMoonBerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

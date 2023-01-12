@@ -2,11 +2,6 @@
 
 ### I'm computer science student from Finland
 
-Tools and laguages I already know:
-<img src="Images/python-logo.png" width="25">
-<img src="Images/visual-studio-code.png" width="25">
-<img src="Images/c.png" width="25">
-
 <!--
 **EvilMoonBerry/EvilMoonBerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
